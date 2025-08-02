@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkbakery=self.webpackChunkbakery||[]).push([[691],{8720:function(e,a,n){n.r(a),n.d(a,{Head:function(){return u},default:function(){return r}});var t=n(7294);var r=()=>t.createElement("main",{className:"index-module--main--1ba09"},"bakery");const u=()=>t.createElement("title",null,"Home Page")}}]);
+//# sourceMappingURL=component---src-pages-index-tsx-10a731f918497f118b1b.js.map
